@@ -1,1 +1,1 @@
-# ---1
+Use SIFT to stitch two images.
